@@ -126,3 +126,5 @@ Thus, the scalar product evaluates to 9. This makes the cosine similarity equal 
 ### Applications
 
 Two example applications are realized using the above defined classes: Diversity and Similarity estimators, residing in their corresponding packages.
+
+[![Continuous Integration](https://github.com/szbotond894/pratice2/actions/workflows/ci.yml/badge.svg?branch=practice-2)](https://github.com/szbotond894/pratice2/actions/workflows/ci.yml)
